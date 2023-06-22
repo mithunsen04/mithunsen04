@@ -28,7 +28,7 @@
 ## Connect with me:
 
 <!-- <a href="https://twitter.com/karanchandekar1" target="_blank"><img align="left" alt="Karan | Twitter" src="https://skillicons.dev/icons?i=twitter" /></a> -->
-<a href="https://www.linkedin.com/in/mithunsen04" target="_blank"><img align="left" alt="Bharat | LinkedIn" src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://www.linkedin.com/in/mithunsen04" target="_blank"><img align="left" alt="Mithun | LinkedIn" src="https://skillicons.dev/icons?i=linkedin" /></a>
 
 <!-- <a href="https://www.instagram.com/karan.21.10/" target="_blank"><img align="left" alt="Karan | Instagram" src="https://skillicons.dev/icons?i=instagram" /></a> -->
 
@@ -39,7 +39,7 @@
 
 ## 🚀 Languages and Tools:
 
-<img align="left" src="https://skillicons.dev/icons?i=html,css,js,java,react,redux,nextjs,bootstrap,materialui,nodejs,express,git,github,postman,vscode" />
+<img align="left" src="https://skillicons.dev/icons?i=html,css,js,java,react,redux,nextjs,bootstrap,materialui,nodejs,express,mongodb,git,github,postman,vscode" />
 
 <br />
 <br />
@@ -55,12 +55,19 @@
     <td><img src="https://github-readme-stats.vercel.app/api?username=mithunsen04&show_icons=true&locale=en&theme=radical&hide_border=true" alt="Mithunsen" /></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mithunsen04&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="mithunsen" /></td
   </tr>
-</table>
+</table> 
+
+
 
 <br>
 
 <!-- <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
 
+<br/>
+<br/>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <br/>
 <br/>
   
