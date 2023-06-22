@@ -39,21 +39,21 @@
 
 ## 🚀 Languages and Tools:
 
-<img align="left" src="https://skillicons.dev/icons?i=html,css,js,java,react,bootstrap,nodejs,express,git,github,vscode" />
+<img align="left" src="https://skillicons.dev/icons?i=html,css,js,java,react,redux,nextjs,bootstrap,materialui,nodejs,express,git,github,postman,vscode" />
 
 <br />
 <br />
 
 ---
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=shantanubose01&theme=radical&hide_border=true" alt="Shantanubose" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=mithunsen04&theme=radical&hide_border=true" alt="Mithunsen" /></p>
 
 ## 📊 My Github Stats
 
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=mithunsen04&show_icons=true&locale=en&theme=radical&hide_border=true" alt="Mithunsen" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mithunsen04&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="shantanubose" /></td
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mithunsen04&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="mithunsen" /></td
   </tr>
 </table>
 
