@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on *improving my skills*
 - 🌱 I’m currently learning *React js*
-- 👨‍💻 Personal portfolio: *<a href="https://shantanubose-portfolio.netlify.app/" target="_blank">Portfolio</a>*
+- 👨‍💻 Personal portfolio: *<a href="https://mithunsen04.github.io/" target="_blank">Portfolio</a>*
 - 💬 Ask me about *Web, FrontEnd and BackEnd*
 - 📫 How to reach me: *mithunsen559@gmail.com*
 <!-- - ⚡ Fun fact *I am half finished* -->
