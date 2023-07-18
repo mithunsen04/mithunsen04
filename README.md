@@ -51,7 +51,7 @@
 
 <h2>🌍 Connect with me :</h2>
    <p align="left">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/mithunsen04-4b5b76274/" target="blank">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/mithunsen04/" target="blank">
             <img align="center"
                 src="https://img.icons8.com/3d-fluency/94/linkedin.png"
                 alt="https://www.linkedin.com/in/mithunsen04/" width="40px" />
@@ -67,7 +67,7 @@
         <img src="https://komarev.com/ghpvc/?username=mithunsen04" >
     </a>
     <a href="https://github.com/mithunsen04?tab=followers">
-        <img src="https://img.shields.io/github/followers/Bharat-Shaw?label=Followers&style=social" alt="GitHub Badge">
+        <img src="https://img.shields.io/github/followers/mithunsen04?label=Followers&style=social" alt="GitHub Badge">
     </a>
     <hr />
     <h2><a href="https://mithunsen04.github.io/">🌍 | Portfolio </a></h2>
