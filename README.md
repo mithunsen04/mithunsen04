@@ -1,75 +1,88 @@
-<img src="https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966">
+<p align="center"><img src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif"  alt="Coding" width="100%"height="500"></p>
 
-<h1 align="center">Hey👋, I'm Mithun!</h1>
-<h3 align="center">I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.</h3>
+<h2 align="center">
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm <a href="https://github.com/mithunsen04" target="_blank" rel="noopener noreferrer">Mithun Sen</a>.
+</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20MERN%20Developer;&center=true&width=500&height=50">
+</p>
 
-<br>
+<h3 align="center">Passionate MERN Full Stack Developer. Expert in MongoDB, Express.js, React, and Node.js. Skilled in frontend and backend development, creating robust and scalable web applications. Committed to delivering exceptional user experiences through innovative solutions. Seeking new opportunities to contribute and enhance skills.</h3>
 
-<a href="https://github.com/mithunsen04/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=mithunsen04">
-</a>
-<a href="https://github.com/mithunsen04?tab=followers"><img src="https://img.shields.io/github/followers/mithunsen04?label=Followers&style=social" alt="GitHub Badge"></a>
+<!-- new file -->
 
-<br>
-
-<img align="right" alt="Coding" width="300" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
-
-## <img src="https://i.postimg.cc/Wbq9jQMN/profile-logo.png" alt="Portfolio" width="40" height="40" align="center"/> About Me
-
-- 🔭 I’m currently working on *improving my skills*
-- 🌱 I’m currently learning *React js*
-- 👨‍💻 Personal portfolio: *<a href="https://mithunsen04.github.io/" target="_blank">Portfolio</a>*
-- 💬 Ask me about *Web, FrontEnd and BackEnd*
-- 📫 How to reach me: *mithunsen559@gmail.com*
-<!-- - ⚡ Fun fact *I am half finished* -->
-
----
-
-## Connect with me:
-
-<!-- <a href="https://twitter.com/karanchandekar1" target="_blank"><img align="left" alt="Karan | Twitter" src="https://skillicons.dev/icons?i=twitter" /></a> -->
-<a href="https://www.linkedin.com/in/mithunsen04" target="_blank"><img align="left" alt="Mithun | LinkedIn" src="https://skillicons.dev/icons?i=linkedin" /></a>
-
-<!-- <a href="https://www.instagram.com/karan.21.10/" target="_blank"><img align="left" alt="Karan | Instagram" src="https://skillicons.dev/icons?i=instagram" /></a> -->
-
-<br />
-<br />
-
----
-
-## 🚀 Languages and Tools:
-
-<img align="left" src="https://skillicons.dev/icons?i=html,css,js,java,react,redux,nextjs,bootstrap,materialui,nodejs,express,mongodb,git,github,postman,vscode" />
-
-<br />
-<br />
-
----
-
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=mithunsen04&theme=radical&hide_border=true" alt="Mithunsen" /></p>
-
-## 📊 My Github Stats
-
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=mithunsen04&show_icons=true&locale=en&theme=radical&hide_border=true" alt="Mithunsen" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mithunsen04&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="mithunsen" /></td
-  </tr>
-</table> 
-
-
-
-<br>
-
-<!-- <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
-
+## 🏆 Trophies :
 <br/>
-<br/>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mithunsen04&theme=onedark" alt="vishalll069" /></a> </p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-<br/>
-<br/>
+## 👨‍💻 TECH STACK :
+
+<div align="center" style="display: flex; flex-wrap: wrap;">
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
+<img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
+<img src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
+</div>
+
+## ✅ Github Stats :
+
+<div align="center" style="display: flex; flex-wrap: wrap;">
+
+<img width="400px" height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=mithunsen04&theme=neon&border_radius=2.7&show_icons=true" alt="mithunsen04" />
   
+<img width="425px" height="200px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mithunsen04&theme=neon&border_radius=2.7&date_format=M%20j%5B%2C%20Y%5D" alt="mithunsen04" />
+  
+<img width="400px" height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mithunsen04&theme=neon&border_radius=2.7" alt="mithunsen04" />
+  
+</div>
 
->  check out my repos 👇
+<h2>🌍 Connect with me :</h2>
+   <p align="left">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/mithunsen04-4b5b76274/" target="blank">
+            <img align="center"
+                src="https://img.icons8.com/3d-fluency/94/linkedin.png"
+                alt="https://www.linkedin.com/in/mithunsen04-4b5b76274/" width="40px" />
+        </a>
+        <a href="https://github.com/mithunsen04" target="blank">
+            <img align="center"
+                src="https://img.icons8.com/3d-fluency/94/github.png"
+                alt="https://github.com/mithunsen04" width="40px"/>
+        </a>
+    </p>
+    <h2>❤ Views and Followers :</h2>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Bharat-Shaw/github-profile-views-counter">
+        <img src="https://komarev.com/ghpvc/?username=mithunsen04" >
+    </a>
+    <a href="https://github.com/mithunsen04?tab=followers">
+        <img src="https://img.shields.io/github/followers/Bharat-Shaw?label=Followers&style=social" alt="GitHub Badge">
+    </a>
+    <hr />
+    <h2><a href="https://mithunsen04.github.io/">🌍 | Portfolio </a></h2>
+
+<!--
+**Bharat-Shaw/Bharat-Shaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
